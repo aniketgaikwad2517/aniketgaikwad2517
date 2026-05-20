@@ -1,6 +1,5 @@
 # 💫 About Me:
-AI & Data Science student | Passionate about coding and technology | Always learning and building new skills 🚀
-
+AI & Data Science Student | Tech Enthusiast | Passionate about Coding, AI & Innovation | Strong Interest in Problem Solving | Continuously Learning & Building Real-World Projects | Future Software Developer 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nz5vwWWM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ll_aniket_g_ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-gaikwad-25-01-2007ag) 
